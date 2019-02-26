@@ -1,0 +1,101 @@
+#loginForm{
+    margin-top: 10em;
+    margin-left: 50em;
+    border:1px solid #73d873;
+    padding: 1em 2em;
+    border-radius:1em;
+    line-height:3em;
+    width:20em;
+    text-align:center;
+    background-color:rgba(0,0,0,0.3);
+}
+#signupForm{
+    color:white;
+    margin-top: 5%; 
+    margin-left:50%;
+    border:1px solid #73d873;
+    padding: 1em 2em;
+    border-radius:1em;
+    line-height:3em;
+    width:20em;
+    text-align:right;
+    clear:both;
+    float:left;
+    padding-right:7em;
+    background-color:rgba(0,0,0,0.3);
+}
+#uploadForm{
+    color:white;
+    margin-top: 0px;
+    margin-left: 10%;
+    border:1px solid #73d873;
+    padding: 1em 2em;
+    border-radius:1em;
+    line-height:2em;
+    width:20em;
+    text-align:right;
+    clear:both;
+    float:left;
+    padding-right:7em;
+    background-color:rgba(0,0,0,0.7);
+}
+#home{
+    margin: 15% 25%;
+    background-color:rgba(0, 0, 0, 0.3);
+    color:white;
+    /*border:2px solid white;*/
+    border-radius:10px;
+    padding:1em;
+    text-align:center;
+    font-family:'Rammetto One', cursive;
+    font-family: 'Pacifico', cursive; 
+    width:40em;   
+}
+.errorMsg{
+    color:red;
+}
+.submit{
+    border:none;
+    background-color:#93e493;
+    border-radius:0.5em;
+    padding:1em;
+    display:inline-block;
+    margin-right:2em;
+    width:5em;
+    height:3em;
+}
+.reset{
+    border:none;
+    background-color:#ea7182;
+    border-radius:0.5em;
+    padding:1em;
+    display:inline-block;
+    width:5em;
+    height:3em;
+}
+form input{
+    height:2em;
+    border:none;
+    border-radius:5px;
+    padding-left:1em;
+   
+}
+
+.area{
+    padding-right:11em;
+}
+header{
+    text-align:right;
+}
+nav a{
+    text-decoration:none;
+    color:white;
+}
+nav li{
+    display:inline-block;
+    border:1px solid white;
+    padding:10px;
+    background-color:rgba(28, 29, 26,0.7);
+    border-radius:10px;
+
+}
